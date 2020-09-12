@@ -1,0 +1,19 @@
+body{
+    background-color: wheat;
+    
+}
+.jumbotron{
+    margin-top: 100px;
+    background-image: url("./Simapic-2.png");
+    background-position: center;
+    color: white;
+    
+}
+
+#polkadot{
+    background-image: url("./Simapic-1.png");
+    
+    
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
